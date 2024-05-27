@@ -5,4 +5,4 @@ Author-Sanket Niwate
 <img src="https://github.com/sanket-niwate/Angular-project/blob/main/images%20ang/Screenshot%202024-05-27%20180942.png"  width="1000" height="600">
 <img src="https://github.com/sanket-niwate/Angular-project/blob/main/images%20ang/Screenshot%202024-05-27%20181143.png"  width="1000" height="600">
 <img src="https://github.com/sanket-niwate/Angular-project/blob/main/images%20ang/Screenshot%202024-05-27%20181227.png"  width="1000" height="600">
-<img src="https://github.com/sanket-niwate/Angular-project/blob/main/images%20ang/Screenshot%202024-05-27%20182417.png"  width="1000" height="600">
+<img src="https://github.com/sanket-niwate/Angular-project/blob/main/images%20ang/Screenshot%202024-05-27%20183935.png"  width="1000" height="600">
